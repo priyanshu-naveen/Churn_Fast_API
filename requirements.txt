@@ -9,4 +9,3 @@ requests
 pydantic
 python-jose[cryptography]
 python-multipart
-python
