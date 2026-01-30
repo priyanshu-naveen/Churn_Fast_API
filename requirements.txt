@@ -9,4 +9,4 @@ requests
 pydantic
 python-jose[cryptography]
 python-multipart
-
+altair==4.2.2
