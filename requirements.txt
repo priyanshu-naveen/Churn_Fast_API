@@ -1,4 +1,4 @@
-scikit-learn
+scikit-learn==1.5.2
 joblib
 numpy
 pandas
@@ -9,3 +9,4 @@ requests
 pydantic
 python-jose[cryptography]
 python-multipart
+
